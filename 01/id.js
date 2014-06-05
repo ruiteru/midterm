@@ -1,3 +1,3 @@
-var id = function(hikisu){
-	return hikisu
+var id = function(a){
+	return a
 };
